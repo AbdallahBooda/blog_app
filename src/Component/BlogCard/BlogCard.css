@@ -1,0 +1,9 @@
+.Technology {
+  background-color: #4b6bfb0d;
+  padding: 8px;
+  width: max-content;
+  /* gap: 4px; */
+}
+.img_card {
+  max-height: 260px;
+}
