@@ -1,4 +1,5 @@
 // import { Link } from "react-router-dom";
+import Bloger from "../../Component/Bloger/Bloger";
 import "./BlogDetails.css";
 function BlogDetails() {
   return (
@@ -10,23 +11,8 @@ function BlogDetails() {
             The Impact of Technology on the Workplace: How Technology is
             Changing
           </h1>
-          <div className="row pt-3">
-            <div className="col-1">
-              <img
-                src="15.png"
-                className="rounded-circle"
-                width={"36px"}
-                alt="..."
-              />
-            </div>
-            <div className="col-2">
-              <p className="pt-1">Tracey Wilson</p>
-            </div>
-            <div className="col-3">
-              <p className="pt-1">August 20, 2022</p>
-            </div>
-          </div>
-          <img src="14.jpeg" class="img-fluid img-style pt-4 pb-3" alt="..." />
+          <Bloger blogerimg="15.png" blogerName="Tracey Wilson"/>
+          <img src="14.jpeg" className="img-fluid img-style pt-4 pb-3" alt="..." />
 
           <p>
             Traveling is an enriching experience that opens up new horizons,
@@ -83,7 +69,7 @@ function BlogDetails() {
               </i>
             </div>
           </div>
-          <img src="16.jpeg" class="img-fluid img-style pt-4 pb-3" alt="..." />
+          <img src="16.jpeg" className="img-fluid img-style pt-4 pb-3" alt="..." />
           <div className="container  pb-4">
             <div className="card">
               <div className="card-body card-ad">
