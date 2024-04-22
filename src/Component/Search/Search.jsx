@@ -5,7 +5,7 @@ function Search() {
       <div className="mt-2">
         <input
           type="text"
-          class="form-control"
+          className="form-control"
           id="exampleFormControlInput1"
           placeholder="Search"
         />
