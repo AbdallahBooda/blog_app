@@ -5,51 +5,51 @@ function BlogList() {
       <div className="row">
         <div className="col-md-4">
           <BlogCard
-            img="1.jpeg"
+            img="1.svg"
             blogerName="Tracey Wilson"
-            blogerimg="9.jpeg"
+            blogerimg="9.svg"
           />
-          <BlogCard img="3.jpeg" blogerName="Ernie Smith" blogerimg="12.jpeg" />
+          <BlogCard img="3.svg" blogerName="Ernie Smith" blogerimg="12.svg" />
           <BlogCard
-            img="6.jpeg"
+            img="6.svg"
             blogerName="Jason Francisco"
-            blogerimg="10.jpeg"
+            blogerimg="10.svg"
           />
         </div>
 
         <div className="col-md-4">
           <BlogCard
-            img="2.jpeg"
+            img="2.svg"
             blogerName="Jason Francisco"
-            blogerimg="10.jpeg"
+            blogerimg="10.svg"
           />
           <BlogCard
-            img="4.jpeg"
+            img="4.svg"
             blogerName="Eric Smith"
-            blogerimg="13.jpeg"
+            blogerimg="13.svg"
           />
           <BlogCard
-            img="7.jpeg"
+            img="7.svg"
             blogerName="Jason Francisco"
-            blogerimg="10.jpeg"
+            blogerimg="10.svg"
           />
         </div>
 
         <div className="col-md-4">
           <BlogCard
-            img="2.jpeg"
+            img="2.svg"
             blogerName="Elizabeth Slavin"
-            blogerimg="11.jpeg"
+            blogerimg="11.svg"
           />
           <BlogCard
-            img="5.jpeg"
+            img="5.svg"
             blogerName="Tracey Wilson"
-            blogerimg="9.jpeg"
+            blogerimg="9.svg"
           />
           <BlogCard
-            img="8.jpeg"
+            img="8.svg"
             blogerName="Eric Smith"
-            blogerimg="12.jpeg"
+            blogerimg="12.svg"
           />
         </div>
       </div>
