@@ -11,8 +11,8 @@ function BlogDetails() {
             The Impact of Technology on the Workplace: How Technology is
             Changing
           </h1>
-          <Bloger blogerimg="15.png" blogerName="Tracey Wilson"/>
-          <img src="14.jpeg" className="img-fluid img-style pt-4 pb-3" alt="..." />
+          <Bloger blogerimg="15.svg" blogerName="Tracey Wilson"/>
+          <img src="14.svg" className="img-fluid img-style pt-4 pb-3" alt="..." />
 
           <p>
             Traveling is an enriching experience that opens up new horizons,
@@ -69,7 +69,7 @@ function BlogDetails() {
               </i>
             </div>
           </div>
-          <img src="16.jpeg" className="img-fluid img-style pt-4 pb-3" alt="..." />
+          <img src="16.svg" className="img-fluid img-style pt-4 pb-3" alt="..." />
           <div className="container  pb-4">
             <div className="card">
               <div className="card-body card-ad">
